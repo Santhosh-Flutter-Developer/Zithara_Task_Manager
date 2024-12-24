@@ -10,9 +10,6 @@ A **Zithara Manager** built with **Flutter** that allows users to manage their t
 - User-friendly interface
 - Persist data using local storage
 
-## Screenshots 📱
-![Apple iPhone 11 Pro Max Presentation (5)](https://github.com/user-attachments/assets/f579546a-3f20-4c53-a924-72e45dd8f014)
-
 
 ## Installation 🛠
 
